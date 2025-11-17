@@ -1,8 +1,8 @@
 # Mintlify Starter Kit
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains exampl including
 
-- Guide page
+- Guide pag
 - Navigation
 - Customizations
 - API Reference pages
